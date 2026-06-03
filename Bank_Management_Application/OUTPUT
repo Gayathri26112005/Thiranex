@@ -1,0 +1,72 @@
+══════════════════════════════════════════════════════════════
+   NEXUS BANK  —  MAIN MENU
+═══════════════════════════════════════════════════════════════
+  [1]  Login
+  [2]  Register as New Customer
+  [0]  Exit
+═══════════════════════════════════════════════════════════════
+  Choice: 2
+
+═══════════════════════════════════════════════════════════════
+   NEW CUSTOMER REGISTRATION
+═══════════════════════════════════════════════════════════════
+  Full Name  : gayathri
+  Phone      : 9000421231
+  Email      : 23pa1a457@gmail.com
+  Set PIN (4 digits): 2345
+  Confirm PIN       : 2345
+
+  ✔  Registration successful!  Customer ID = 1
+  Please note your Customer ID – needed for login.
+
+  Press ENTER to continue...
+
+═══════════════════════════════════════════════════════════════
+   NEXUS BANK  —  MAIN MENU
+═══════════════════════════════════════════════════════════════
+  [1]  Login
+  [2]  Register as New Customer
+  [0]  Exit
+═══════════════════════════════════════════════════════════════
+  Choice: 1
+
+═══════════════════════════════════════════════════════════════
+   CUSTOMER LOGIN
+═══════════════════════════════════════════════════════════════
+  Customer ID : 1
+  PIN         : 2345
+
+  ✔  Welcome, gayathri!
+
+═══════════════════════════════════════════════════════════════
+   ACCOUNT OPERATIONS  —  gayathri
+═══════════════════════════════════════════════════════════════
+  [1]  Open New Account
+  [2]  Deposit
+  [3]  Withdraw
+  [4]  Fund Transfer
+  [5]  Balance Enquiry
+  [6]  Mini Statement (last 10)
+  [7]  Full Statement
+  [8]  Update Profile
+  [9]  Change PIN
+  [10] Close Account
+  [0]  Logout
+═══════════════════════════════════════════════════════════════
+  Choice: 1
+
+═══════════════════════════════════════════════════════════════
+   OPEN NEW ACCOUNT
+═══════════════════════════════════════════════════════════════
+  Account type:
+  [1] Savings
+  [2] Current
+  Choice: 1
+  Minimum opening deposit: ₹ 500.00
+  Opening deposit (₹): 300
+  ✘  Invalid amount. Try again.
+  Opening deposit (₹): 500
+
+  ✔  Account opened!  Account No. = 1
+
+  Press ENTER to continue...
