@@ -1,0 +1,25 @@
+─────────────────────────────────────────────────────────────────
+       STUDENT MANAGEMENT SYSTEM
+─────────────────────────────────────────────────────────────────
+  [1]  Add Student
+  [2]  Display All Students
+  [3]  Search Student
+  [4]  Update Student
+  [5]  Delete Student
+  [6]  Statistics
+  [0]  Exit
+─────────────────────────────────────────────────────────────────
+  Choice: 1
+
+─────────────────────────────────────────────────────────────────
+  ADD NEW STUDENT
+─────────────────────────────────────────────────────────────────
+  Name    : ram
+  Course  : ece
+  Age     : 18
+  GPA     : 9
+  GPA must be 0.0 – 4.0. Enter again: 3
+
+  ✔  Student added successfully! (ID = 1)
+
+  Press ENTER to continue...
