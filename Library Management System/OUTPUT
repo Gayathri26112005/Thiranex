@@ -1,0 +1,35 @@
+====== Library Management System ======
+1. Add Book
+2. Display Books
+3. Search Book by Title
+4. Search Book by Author
+5. Issue Book
+6. Return Book
+7. Exit
+Enter your choice: 5
+
+Enter Book ID to issue: 123
+Book issued successfully!
+
+====== Library Management System ======
+1. Add Book
+2. Display Books
+3. Search Book by Title
+4. Search Book by Author
+5. Issue Book
+6. Return Book
+7. Exit
+Enter your choice: 6
+
+Enter Book ID to return: 123
+Book returned successfully!
+
+====== Library Management System ======
+1. Add Book
+2. Display Books
+3. Search Book by Title
+4. Search Book by Author
+5. Issue Book
+6. Return Book
+7. Exit
+Enter your choice: 
